@@ -2,7 +2,7 @@ span{
     font-weight: bold;
     color: yellow;
 }
-#content{
+body{
     width: 800px;
     margin: auto;
     background-color: rgb(167, 153, 153);
@@ -13,7 +13,7 @@ h1{
 p,li{
     text-align: justify;
 }
-.container{
+img{
     margin: 20px;
 }
 a,a:visited{
